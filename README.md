@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AsmitaMallick](https://github.com/AsmitaMallick)
 
-- 💬 Ask me about **Javascript, React,**
+- 💬 Ask me about **Javascript, React**
 
 - 📫 Linkedin **https://www.linkedin.com/in/asmita-mallick-28b258218/**
 
