@@ -13,7 +13,7 @@
 
 <h3 align="left">You can check: </h3>
 <p align="left">
-<a href="https://www.leetcode.com/https://leetcode.com/asmitamallick/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/asmitamallick/" height="30" width="40" /></a>
+<a href="https://leetcode.com/AsmitaMallick/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/asmitamallick/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
