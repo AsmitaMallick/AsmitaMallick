@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Javascript, React**
 
-- 📫 Linkedin **https://www.linkedin.com/in/asmita-mallick-28b258218/**
+- 📫 Contact me here: **https://www.linkedin.com/in/asmita-mallick-28b258218/**
 
 <h3 align="left">You can check: </h3>
 <p align="left">
