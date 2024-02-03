@@ -1,15 +1,22 @@
-<h1 align="center">Heyoo👋, I'm Asmita </h1>
-<h3 align="center">A passionate frontend developer from India. My goal is to become Full stack Developer.</h3>
+# 👋 Hello, I'm Asmita!
 
-- 🔭 I’m currently working on [Portfolio-site](https://github.com/AsmitaMallick/Portfolio)
+I'm a passionate frontend developer from India with a big goal – to become a Full Stack Developer. Currently, I'm channeling my energy into crafting my Portfolio site to showcase my skills and projects.
 
-- 🌱 I’m currently learning **MERN stack**
+## 🛠 Tech Stack
+- 💻 *Languages:* JavaScript
+- ⚛ *Frontend:* React
+- 🌐 *Full Stack:* Currently learning the MERN stack
 
-- 👨‍💻 All of my projects are available at [https://github.com/AsmitaMallick](https://github.com/AsmitaMallick)
+## 🚀 Projects
+Explore all of my projects on [GitHub](https://github.com/AsmitaMallick).
 
-- 💬 Ask me about **Javascript, React**
+## 💬 Ask me about
+Feel free to reach out if you have any questions about JavaScript or React.
 
-- 📫 Contact me here: **https://www.linkedin.com/in/asmita-mallick-28b258218/**
+## 📫 Let's Connect
+Connect with me on [LinkedIn](https://www.linkedin.com/in/asmita-mallick-28b258218/) for professional discussions.
+
+Happy coding! 🚀
 
 <h3 align="left">Coding Platforms: </h3>
 <p align="left">
