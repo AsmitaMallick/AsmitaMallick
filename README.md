@@ -26,18 +26,7 @@ Currently working on backend-heavy systems, automation pipelines, and AI-driven 
 `LangChain` • `LangGraph` • `RAG`  
 `n8n` • `Pinecone`
 
-## 🚀 Projects
-
-### 🧠 CereBrix
-AI-powered personalized learning platform
-
-- 📚 Smart notes + flowchart generation
-- 🤖 AI study assistant
-- 📝 MCQ generation from PDFs
-
-**Tech:** React, TypeScript, Flask, Generative AI
-
-### 📊 ApplyDesk *(Building 🚧)*
+### 📊 ApplyDesk *(Currently Building...)*
 > AI-powered job application tracker with smart automation.
 > You apply to innumerable jobs daily but lose track...so here is what I am building...
 
