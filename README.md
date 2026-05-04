@@ -101,4 +101,4 @@ AI-powered personalized learning platform
 - 💼 [LinkedIn](https://www.linkedin.com/in/asmita-mallick-28b258218/)
 - 💻 [GitHub](https://github.com/AsmitaMallick)
 - 🧩 [LeetCode](https://leetcode.com/AsmitaMallick/)
-- 🌐 Portfolio (https://asmi-portfolio.vercel.app/)
+- 🌐 [Portfolio](https://asmi-portfolio.vercel.app/)
