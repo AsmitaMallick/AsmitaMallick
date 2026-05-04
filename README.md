@@ -75,8 +75,8 @@ AI-powered personalized learning platform
 **Tech:** React, TypeScript, Flask, Generative AI
 
 ### 📊 ApplySheet *(Building 🚧)*
-> AI-powered job application tracker with smart automation
-You apply to innumerable jobs daily but lose track...so here is what I am building...
+> AI-powered job application tracker with smart automation.
+> You apply to innumerable jobs daily but lose track...so here is what I am building...
 
 - 📋 Spreadsheet-style dashboard to track all job applications in one place  
 - ✏️ Fully editable rows (status, company, role, notes, etc.)  
