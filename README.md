@@ -1,55 +1,117 @@
-# 👋 Hello, I'm Asmita!
+# 👋 Hey, I'm Asmita Mallick
 
-I'm a passionate frontend developer from India with a big goal – to become a Full Stack Developer. Currently, I'm channeling my energy into crafting my Portfolio site to showcase my skills and projects.
+💻 Software Engineer | Full Stack Developer | AI Enthusiast  
+📍 India | 🌍 Working remotely
+
+---
+
+## 🚀 About Me
+I'm a Software Engineer passionate about building scalable full-stack applications and intelligent systems.  
+Currently working on backend-heavy systems, automation pipelines, and AI-driven products.
+
+- ⚡ Strong in **JavaScript / TypeScript ecosystem**
+- 🧠 Exploring **AI + RAG + automation workflows**
+- 🛠 Building **high-performance, production-grade systems**
+- 📈 Focused on **scalability, performance, and clean architecture**
+
+---
 
 ## 🛠 Tech Stack
-- 💻 *Languages:* JavaScript
-- ⚛ *Frontend:* React
-- 🌐 *Full Stack:* Currently learning the MERN stack
+
+### 💻 Languages
+`JavaScript` • `TypeScript` • `Python` • `SQL`
+
+### ⚙️ Frameworks & Libraries
+`React` • `Next.js` • `Vue` • `Nuxt.js`  
+`Node.js` • `Flask`
+
+### 🗄 Databases & Tools
+`PostgreSQL` • `MongoDB` • `Prisma ORM`  
+`Redis` • `Upstash`
+
+### 🤖 AI & Automation
+`LangChain` • `LangGraph` • `RAG`  
+`n8n` • `Pinecone`
+
+### 🧪 DevOps & Testing
+`GitHub Actions` • `CI/CD` • `Playwright`
+
+---
+
+## 💼 Experience
+
+### 🏢 Software Engineer — Struxo Pty Ltd (Remote)
+📅 Feb 2025 – Present
+
+- 🚀 Promoted within 6 months based on impact
+- ⚡ Improved API latency by **20%**
+- 🏗 Built scalable backend systems using **Next.js + PostgreSQL**
+- 🔄 Migrated APIs to **server actions**
+- 🧪 Automated testing with **Playwright**
+- ⚙️ Built CI/CD pipelines using **GitHub Actions**
+- 🔌 Integrated tools like **Novu, Resend, Payload CMS**
+
+---
+
+### 💻 Software Developer Intern — JobGenix (Remote)
+📅 Dec 2024 – Jan 2025
+
+- 🧱 Designed type-safe backend using **Drizzle ORM**
+- ⚡ Optimized SQL queries & indexing
+- 🚀 Improved API performance significantly
+- 🧠 Implemented **Redis caching + rate limiting**
+
+---
 
 ## 🚀 Projects
-Explore all of my projects on [GitHub](https://github.com/AsmitaMallick).
 
-## 💬 Ask me about
-Feel free to reach out if you have any questions about JavaScript or React.
+### 🏥 Swasthya Sampark
+Full-stack healthcare platform
 
-## 📫 Let's Connect
-Connect with me on [LinkedIn](https://www.linkedin.com/in/asmita-mallick-28b258218/) for professional discussions.
+- 🧠 AI-powered **HealthGPT assistant**
+- 📄 OCR-based medical report summarization
+- 🔗 Patient–doctor interaction system
 
-Happy coding! 🚀
+**Tech:** React, Tailwind, Flask, MongoDB, Tesseract
 
-<h3 align="left">Coding Platforms: </h3>
-<p align="left">
-<a href="https://leetcode.com/AsmitaMallick/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/asmitamallick/" height="30" width="40" /></a>
+---
+
+### 🧠 CereBrix
+AI-powered personalized learning platform
+
+- 📚 Smart notes + flowchart generation
+- 🤖 AI study assistant
+- 📝 MCQ generation from PDFs
+
+**Tech:** React, TypeScript, Flask, Generative AI
+
+---
+
+## 🎓 Education
+
+🎓 B.Tech in Computer Science  
+**Techno India University** (2021–2025)  
+📊 CGPA: 8.7
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/asmita-mallick-28b258218/)
+- 💻 [GitHub](https://github.com/AsmitaMallick)
+- 🧩 [LeetCode](https://leetcode.com/AsmitaMallick/)
+- 🌐 Portfolio (Add link here)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asmitamallick&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asmitamallick&layout=compact&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-</p>
+---
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmitamallick&show_icons=true&locale=en&layout=compact" alt="asmitamallick" /></p>
+## ✨ Motto
+> Build fast. Scale smart. Keep it clean.
