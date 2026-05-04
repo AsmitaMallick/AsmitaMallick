@@ -65,17 +65,6 @@ Currently working on backend-heavy systems, automation pipelines, and AI-driven 
 
 ## 🚀 Projects
 
-### 🏥 Swasthya Sampark
-Full-stack healthcare platform
-
-- 🧠 AI-powered **HealthGPT assistant**
-- 📄 OCR-based medical report summarization
-- 🔗 Patient–doctor interaction system
-
-**Tech:** React, Tailwind, Flask, MongoDB, Tesseract
-
----
-
 ### 🧠 CereBrix
 AI-powered personalized learning platform
 
@@ -84,6 +73,18 @@ AI-powered personalized learning platform
 - 📝 MCQ generation from PDFs
 
 **Tech:** React, TypeScript, Flask, Generative AI
+
+### 📊 ApplySheet *(Building 🚧)*
+> AI-powered job application tracker with smart automation
+You apply to innumerable jobs daily but lose track...so here is what I am building...
+
+- 📋 Spreadsheet-style dashboard to track all job applications in one place  
+- ✏️ Fully editable rows (status, company, role, notes, etc.)  
+- 🌐 Chrome Extension to capture job applications directly from any job portal  
+- 🤖 AI-powered job parsing — paste a job URL and auto-fill structured data  
+- 🔍 Keeps a clean, centralized record of all applications  
+
+**Tech:** Next.js, TypeScript, PostgreSQL, Prisma, Chrome Extension APIs, AI APIs
 
 ---
 
@@ -100,18 +101,4 @@ AI-powered personalized learning platform
 - 💼 [LinkedIn](https://www.linkedin.com/in/asmita-mallick-28b258218/)
 - 💻 [GitHub](https://github.com/AsmitaMallick)
 - 🧩 [LeetCode](https://leetcode.com/AsmitaMallick/)
-- 🌐 Portfolio (Add link here)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asmitamallick&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asmitamallick&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## ✨ Motto
-> Build fast. Scale smart. Keep it clean.
+- 🌐 Portfolio (https://asmi-portfolio.vercel.app/)
